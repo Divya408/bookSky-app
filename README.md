@@ -29,7 +29,7 @@ Getting Started :
 
 1. Clone the repository:
 
-git clone https://github.com/divya408/booksky-app.git
+git clone https://github.com/Divya408/booksky-app.git
 
 2. Open the project folder.
 
