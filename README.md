@@ -29,7 +29,7 @@ Getting Started :
 
 1. Clone the repository:
 
-git clone https://github.com/sandhiyamurugan03/Booksky-app.git
+git clone https://github.com/divya408/booksky-app.git
 
 2. Open the project folder.
 
@@ -43,10 +43,3 @@ Future Enhancements :
 * Local storage support
 * User authentication
 
-Author :
-
-Sandhiya Murugan
-
-License :
-
-This project is open source and available under the MIT License.
